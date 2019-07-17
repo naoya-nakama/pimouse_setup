@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by Naoya Nakama
 
 exec 2> /tmp/setup.log
 
