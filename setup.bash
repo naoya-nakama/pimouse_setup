@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#witten by N.Nakama
 
 exec 2> /tmp/setup.log
 
